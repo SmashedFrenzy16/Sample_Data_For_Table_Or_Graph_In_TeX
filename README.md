@@ -1,2 +1,2 @@
-# Sample_Data_For_Table_Or_Graph_In_Tex
+# Sample Data For Table Or Graph In Tex
 Sample data for a table/graph using TeX.
